@@ -4,7 +4,7 @@ body{
 }
 .text-part{
     font-family: 'Lora', serif;
-    font-size: larger;
+    font-size: 22px;
 }
 .center{
     text-align: center;
@@ -152,7 +152,7 @@ body{
 .line-one{
     margin-right: 10px;
     border: 1.5px solid orangered;
-    height: 50px;
-    margin-top: 25px;
+    height: 70px;
+    margin-top: 34px;
 }
 
