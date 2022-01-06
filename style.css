@@ -1,0 +1,158 @@
+body{
+    font-family: 'Poppins', sans-serif;;
+    margin: 0%;
+}
+.text-part{
+    font-family: 'Lora', serif;
+    font-size: larger;
+}
+.center{
+    text-align: center;
+}
+
+.orange-color{
+    color: orange;
+}
+
+.white-color{
+    color: white;
+}
+.dark-color{
+    color: sienna;
+}
+
+.flexible-container{
+    display: flex;
+    margin-bottom: 150px;
+}
+
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 5px 5px;
+    color: white;
+    font-weight: 400;
+    border-radius: 5px;
+}
+
+.section-one{
+    /* background-image: url(images/person/person-2.png); */
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+
+.section-three{
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+
+.section-four{
+    /* background-image: url(images/pictures/project.png); */
+    background-repeat: no-repeat;
+    background-position: right;
+
+}
+
+
+.div-one{
+   padding-left: 7%;
+    width: 50%;
+}
+
+
+.div-one img{
+    width: 80%;
+}
+
+
+.mission {
+    padding-left: 1%;
+    width: 30%;
+    margin-left: 2%;
+    margin-right: 2%;
+    /* box-shadow: 10px 10px 40px; */
+    border-radius: 10px;
+    background-color: lavender;;
+}
+.mission img{
+    width: 40%;
+}
+
+.vision {
+    padding-left: 1%;
+    width: 30%;
+    margin-left: 2%;
+    margin-right: 2%;
+    /* box-shadow: 10px 10px 40px; */
+    border-radius: 10px;
+    background-color: lemonchiffon;
+}
+.vision img{
+    width: 40%;
+}
+
+.goals {
+    padding-left: 1%;
+    width: 30%;
+    margin-left: 2%;
+    margin-right: 2%;
+    /* box-shadow: 10px 10px 40px; */
+    border-radius: 10px;
+    background-color: rgb(241, 187, 187);
+    
+}
+.goals img{
+    width: 40%;
+}
+
+
+
+
+.div-three{
+    padding-left: 7%;
+     width: 100%;
+ }
+ .div-three img{
+    width: 100%;
+}
+
+
+.div-four{
+    padding-left: 7%;
+    width: 50%;
+ }
+
+ .div-four img{
+    width: 80%;
+}
+
+.div-five{
+    padding-left: 7%;
+    width: 50%;
+ }
+ .div-five img{
+    width: 80%;
+}
+
+
+.last-part{
+    background-color: rgb(1, 4, 14);
+    padding-bottom: 6%;
+    text-decoration-style: wavy;
+    text-orientation: unset;
+    padding-top: 20px;
+}
+.line{
+    display: flex;
+}
+
+.line-one{
+    margin-right: 10px;
+    border: 1.5px solid orangered;
+    height: 50px;
+    margin-top: 25px;
+}
+
